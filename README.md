@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in R programming related to subsetting data frames using logical AND conditions. The bug arises from unexpected operator precedence, leading to incorrect subsetting. The solution highlights how to correctly use parentheses to ensure the intended logical operations are performed.
